@@ -327,14 +327,14 @@ body {
     margin: 0 0 100px 0;
     padding: 7px 12px;
     border-radius: 500px;
-    color: #298cf7;
+    color: #2e3946;
     font-weight: 700;
     background-color: white;
     border: none;
     transition: all 0.4s;
 }
 .genre-container .genre-slide-content button:hover{
-    background-color: #298cf7;
+    background-color: #2e3946;
     color: white;
 }
 .genre-slide:hover .genre-slide-content {
