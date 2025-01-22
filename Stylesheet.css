@@ -662,7 +662,7 @@ input[type="radio"]{
     border-radius: 20px;
     padding: 2px 5px;
     text-align: center;
-    border: 2px solid #298cf7;
+    border: 2px solid #2e3946;
 }
 .read-more-button:hover {
     background-color: #2e3946;
